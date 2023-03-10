@@ -4,13 +4,13 @@ Scraped data of top anime on MyAnimeList (MAL) from page 1 to 270, which gave me
 DRAFT VERSION:
 The scraped data is placed into an pandas DataFrame, where the analysis is done.
 
-The analis thus far:
+The analysis thus far:
 * Check in which month the most top anime's were released
 * Check in which year the most top animes were releases
 * The mean star rating in each month
 
 ---------------
-Still to be done:
+## Still to be done:
 * Use the MAL ref to gahter more detailed info on animes
 * Details like:
   - Status
@@ -26,6 +26,6 @@ Still to be done:
 
 
 --------------
-Correlation Questions
+## Correlation Questions
 * Is there a correlation between number episodes and rating given
 

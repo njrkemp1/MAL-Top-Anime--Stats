@@ -1,24 +1,5 @@
-<h1> Analysis 1
-<h2>  For TV Shows
-<p> 
-<p> The folowing sections incluedes graphs aswell as interpretation of said graphs
-
-
-
-<!-- 
-    General Layout
-
-#### (All cunt)
-#### Premiered Season
-#### Broadcast days
-#### Studio
-#### Age Rating
-#### Genres
-#### Producers
-#### Demograph (All cunt)
-#### Themes
-#### Source
- -->
+# Analysis 
+## For TV Shows
 
 
 
@@ -28,20 +9,38 @@
 #### &emsp; All Months Releases
 The following graph shows in which months animes the most animes were releases.
 
-![month_releases](Figures/Releases/montly_releases.png)
+![month_releases](/Figures/Releases/monthly_releases.png)
 
 According to this graph animes are released every 3 months, or quaterly.
 
 
-#### &emsp; Seasonly
+#### Seasonly
 
 The following graph shows the amount of top animes was released in each season
 
-![seasonly_releases](Figures/Releases/season_releases.jpg)
+![seasonly_releases](/Figures/Releases/season_releases.png)
 
 We can see that the most animes were released in Fall, followed by Spring, Winter and Summer.
 
 
+#### &emsp; Decades
+<!-- ![decade_releases](/Figures/Releases/decade_releases.png) -->
+![Alt text](Figures/Releases/decade_releases.png)
+
+
+#### &nbsp; Broadcast days
+#### &nbsp; Studio
+#### &nbsp; Age Rating
+#### &nbsp; Genres
+#### &nbsp; Producers
+#### &nbsp; Demograph (All cunt)
+#### &nbsp; Themes
+#### &nbsp; Source
+
+
+
+
+<<<<<<< HEAD
 #### &emsp; Decades
 <!-- ![decade_releases](/Figures/Releases/decade_releases.png) -->
 ![Alt text](Figures/Releases/decade_releases.png)
@@ -66,13 +65,21 @@ We can see that the most animes were released in Fall, followed by Spring, Winte
 <!------------------------>
 ------
 ### __Rating Stats__
+=======
+
+
+
+
+<!------------------------>
+------
+
+### Rating Stats
 This is the avr ratings of all animes
 
 #### All
 
 
-#### &nbsp; Premiered
-##### &emsp; Season
+#### Seasonly
 ![season_avr](Figures/Ratings/avr_season_rating.png)
 
 
@@ -142,45 +149,15 @@ can put in a table
 ### _Studio Stats_
 
 #### All
-
-![Alt text](Figures/Studio/all_studio_count.png)
-
-Better release count img
-![Alt text](Figures/Studio/range_releases.png)
-
 #### Yearly
 #### Seasonly
 
 
-<!-- <img src = Figures/Studio/studio_releases.png  width="70%" height="100%"> -->
-
-#### &nbsp; Premiered Season
-#### &nbsp; Broadcast days
-#### &nbsp; Studio
-#### &nbsp; Age Rating
-#### &nbsp; Genres
-#### &nbsp; Producers
-#### &nbsp; Demograph (All cunt)
-#### &nbsp; Themes
-#### &nbsp; Source
-
-
-
-
-
-<!-------------------------------------------------------------------------------------------->
 ------
 ### __Age Rating Stats__
 
 #### All
-![Alt text](Figures/Age_ratings/ageRatingCount.png)
-
-
-
-#### Better Graph
-![Alt text](Figures/Age_ratings/age_ratings_count.png)
-
-
+#### Yearly
 #### Seasonly
 
 #### &nbsp; Premiered Season
@@ -197,7 +174,7 @@ Better release count img
 
 <!-------------------------------------------------------------------------------------------->
 ------
-### _Genre Stats_
+### Producers Stats
 
 #### All
 ![Alt text](Figures/Genres/all_count.png)
@@ -310,13 +287,3 @@ Better release count img
 #### &emsp; Seasonly
 
 
-
-#### &nbsp; Premiered Season
-#### &nbsp; Broadcast days
-#### &nbsp; Studio
-#### &nbsp; Age Rating
-#### &nbsp; Genres
-#### &nbsp; Producers
-#### &nbsp; Demograph (All cunt)
-#### &nbsp; Themes
-#### &nbsp; Source

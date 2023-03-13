@@ -100,6 +100,7 @@ This is the avr ratings of all animes
 ------
 ### _Broadcast Stats_
 
+#### &nbsp; Premiered
 #### &emsp; Weekly
 ![Alt text](Figures/Broadcast/weekday_count.jpg)
 
@@ -108,15 +109,28 @@ This is the avr ratings of all animes
 
 #### &emsp; Yearly
 
+<p>
+    can put in a table
+    <br> maby change this style
+
+</p> 
+can put in a table
+
+![Alt text](Figures/Broadcast/broadcast_day_month.png)
 
 
-#### &nbsp; Premiered Season
+
 #### &nbsp; Broadcast days
 #### &nbsp; Studio
 #### &nbsp; Age Rating
+![Alt text](Figures/Broadcast/broad_age.png)
+
+
 #### &nbsp; Genres
 #### &nbsp; Producers
 #### &nbsp; Demograph (All cunt)
+![Alt text](Figures/Broadcast/broad_demograph.png)
+
 #### &nbsp; Themes
 #### &nbsp; Source
 
@@ -129,7 +143,7 @@ This is the avr ratings of all animes
 
 #### All
 
-![Alt text](Figures/Studio/all_studio_count.jpg)
+![Alt text](Figures/Studio/all_studio_count.png)
 
 Better release count img
 ![Alt text](Figures/Studio/range_releases.png)

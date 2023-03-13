@@ -39,8 +39,6 @@ We can see that the most animes were released in Fall, followed by Spring, Winte
 
 
 
-
-<<<<<<< HEAD
 #### &emsp; Decades
 <!-- ![decade_releases](/Figures/Releases/decade_releases.png) -->
 ![Alt text](Figures/Releases/decade_releases.png)
@@ -63,9 +61,7 @@ We can see that the most animes were released in Fall, followed by Spring, Winte
 
 
 <!------------------------>
-------
-### __Rating Stats__
-=======
+
 
 
 
@@ -73,10 +69,10 @@ We can see that the most animes were released in Fall, followed by Spring, Winte
 <!------------------------>
 ------
 
-### Rating Stats
+### __Rating Stats__
 This is the avr ratings of all animes
 
-#### All
+#### &nbsp; All
 
 
 #### Seasonly
